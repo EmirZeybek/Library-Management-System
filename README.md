@@ -1,5 +1,5 @@
 # Library-Management-System
-Library Management System, created with using Java and SQL (Personal Project).
+Library Management System, created with Java and SQL (Personal Project).
 
 First ever personal project.
 
