@@ -6,4 +6,5 @@ First ever personal project.
 Ready to be developed.
 
 Integrated with MySQL database using a custom connector class.
+
 Implemented basic CRUD operations (add, remove, update, search for books).
